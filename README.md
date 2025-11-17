@@ -7,9 +7,9 @@ Below you can find words that shows what I have learnt from my lessons.
 ### For bold
 **I am from Thessaloniki**
 ### Bullets
-*First
-*Second
-*Third
+* First
+* Second
+* Third
 ### Image
 ![data analyst](https://ischool.syracuse.edu/wp-content/uploads/skills-for-a-data-analyst-1024x682.png)
 ### Link
